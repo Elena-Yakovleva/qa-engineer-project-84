@@ -52,6 +52,6 @@
     Проверка наличия сертификата безопасности с помощью Chrome DevTools.
   status: pass
 
- - summary: |
+- summary: |
     Проверка производительности сайта с помощью PageSpeed Insights.
   status: pass
