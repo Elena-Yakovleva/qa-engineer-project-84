@@ -1,1 +1,13 @@
-
+---
+- summary: |
+     
+  environment: |
+    Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
+    ОС Microsoft Windows [Version 10.0.22621.2134]
+  steps-to-reproduce: |
+   1. 
+   2. 
+  expected-result: |
+    
+  actual-result: |
+    
