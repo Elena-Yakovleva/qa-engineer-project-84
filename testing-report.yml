@@ -53,5 +53,5 @@
   status: pass
 
 - summary: |
-    Проверка производительности сайта с помощью PageSpeed Insights.
+    Проверка производительности веб версии сайта с помощью PageSpeed Insights.
   status: pass
