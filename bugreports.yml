@@ -1,12 +1,37 @@
 ---
 - summary: |
-     
+    Наличие кнопки навигации "Предыдущая" ("Previous") на первой странице сайта.
+  environment: |
+    Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
+    ОС Microsoft Windows [Version 10.0.22621.2134]
+  steps-to-reproduce: |
+    1. Зайти на сайт https://hexlet-products-store.vercel.app/.
+  expected-result: |
+    На первой странице сайта, для перехода на другую страницу, должна быть только кнопка навигации "Следующая" ("Next"). 
+  actual-result: |
+    На первой странице сайта расположены обе кнопки навигации "Предыдущая" ("Previous") и "Следующая" ("Next").
+    Ошибка изображена на скриншоте screen1
+
+- summary: |
+    Отсутствие картинки флага страны рядом с названием ("English")  при выборе языка  отображения сайта.
+  environment: |
+    Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
+    ОС Microsoft Windows [Version 10.0.22621.2134]
+  steps-to-reproduce: |
+    1. Зайти на сайт https://hexlet-products-store.vercel.app/.
+    2. Нажать на кнопку "Язык" ("Language").
+  expected-result: |
+    Рядом с названием языка должен отображаться флаг страны. 
+  actual-result: |
+
+    
+- summary: |
+    
   environment: |
     Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
     ОС Microsoft Windows [Version 10.0.22621.2134]
   steps-to-reproduce: |
    1. 
-   2. 
   expected-result: |
     
   actual-result: |
