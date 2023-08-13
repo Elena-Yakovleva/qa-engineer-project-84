@@ -71,7 +71,7 @@ bugreports:
     Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
     ОС Microsoft Windows [Version 10.0.22621.2134]
   steps-to-reproduce: |
-    1. Зайти на сайт https://hexlet-products-store.vercel.app/.
+    1. Зайти на сайт https://products-store-git-v2bugfixes-hexlet-components.vercel.app/.
   expected-result: |
     На первой странице сайта, для перехода на другую страницу, должна быть только кнопка навигации "Следующая" ("Next"). 
   actual-result: |
@@ -83,7 +83,7 @@ bugreports:
     Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
     ОС Microsoft Windows [Version 10.0.22621.2134]
   prerequisites: |
-    Зайти на сайт https://hexlet-products-store.vercel.app/.
+    Зайти на сайт https://products-store-git-v2bugfixes-hexlet-components.vercel.app/.
   steps-to-reproduce: |
     1. Нажать на кнопку "Язык" ("Language").
   expected-result: |
@@ -97,7 +97,7 @@ bugreports:
     Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
     ОС Microsoft Windows [Version 10.0.22621.2134]
   prerequisites: |
-    Зайти на сайт https://hexlet-products-store.vercel.app/.
+    Зайти на сайт https://products-store-git-v2bugfixes-hexlet-components.vercel.app/.
   steps-to-reproduce: | 
    1. Нажать на кнопку "Язык" ("Language").
    2. Выбрать "Russian"
@@ -113,7 +113,7 @@ bugreports:
     Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
     ОС Microsoft Windows [Version 10.0.22621.2134]
   prerequisites: |
-    Зайти на сайт https://hexlet-products-store.vercel.app/.
+    Зайти на сайт https://products-store-git-v2bugfixes-hexlet-components.vercel.app/.
     Добавить несколько товаров в корзину.
     Нажать на кнопку f12 для открытия Chrome DevTools.
   steps-to-reproduce: |
@@ -132,7 +132,7 @@ bugreports:
     Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
     ОС Microsoft Windows [Version 10.0.22621.2134]
   prerequisites: |
-    Зайти на сайт https://hexlet-products-store.vercel.app/.
+    Зайти на сайт https://products-store-git-v2bugfixes-hexlet-components.vercel.app/.
     Добавить несколько товаров в корзину.
   steps-to-reproduce: |
    1. Нажать кнопку "Корзина" ("Cart").
@@ -151,7 +151,7 @@ bugreports:
     Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
     ОС Microsoft Windows [Version 10.0.22621.2134]
   prerequisites: |
-    Зайти на сайт https://hexlet-products-store.vercel.app/.
+    Зайти на сайт https://products-store-git-v2bugfixes-hexlet-components.vercel.app/.
     Зайти в карточку товара.
   steps-to-reproduce: |
     1. Нажать на фотографию для просмотра товара.
@@ -166,7 +166,7 @@ bugreports:
     Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
     ОС Microsoft Windows [Version 10.0.22621.2134]
   prerequisites: |
-    Зайти на сайт https://hexlet-products-store.vercel.app/.
+    Зайти на сайт https://products-store-git-v2bugfixes-hexlet-components.vercel.app/.
   steps-to-reproduce: |
     1. Нажать на кнопку "Категория" ("Category").
     2. В появившемся окне выбрать нужную категорию.
@@ -181,7 +181,7 @@ bugreports:
     Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
     ОС Microsoft Windows [Version 10.0.22621.2134]
   prerequisites: |
-    Зайти на сайт https://hexlet-products-store.vercel.app/.
+    Зайти на сайт https://products-store-git-v2bugfixes-hexlet-components.vercel.app/.
   steps-to-reproduce: |
     1. Снять галочку около параметра "В наличии" ("In Stock") 
   expected-result: |
@@ -195,7 +195,7 @@ bugreports:
     Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
     ОС Microsoft Windows [Version 10.0.22621.2134]
   prerequisites: |
-    Зайти на сайт https://hexlet-products-store.vercel.app/.
+    Зайти на сайт https://products-store-git-v2bugfixes-hexlet-components.vercel.app/.
     Нажать на кнопку "Категория" ("Category").
     Выбрать раздел home-decoration
   steps-to-reproduce: |
@@ -212,7 +212,7 @@ bugreports:
     Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
     ОС Microsoft Windows [Version 10.0.22621.2134]
   prerequisites: |
-    Зайти на сайт https://hexlet-products-store.vercel.app/.
+    Зайти на сайт https://products-store-git-v2bugfixes-hexlet-components.vercel.app/.
     Нажать на мини-карточку товара для перехода в карточку товара.
   steps-to-reproduce: |
     1. Нажать на хештех категории товара в карточке товара. 
@@ -228,7 +228,7 @@ bugreports:
     Chrome. Версия 115.0.5790.171 (Официальная сборка), (64 бит) 
     ОС Microsoft Windows [Version 10.0.22621.2134]
   prerequisites: |
-    Зайти на сайт https://hexlet-products-store.vercel.app/.
+    Зайти на сайт https://products-store-git-v2bugfixes-hexlet-components.vercel.app/.
     Нажать на мини-карточку товара для перехода в карточку товара.
   steps-to-reproduce: |
     1. Нажать на логотип компании для возврата на главную страницу сайта 
