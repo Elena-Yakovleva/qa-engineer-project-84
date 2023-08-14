@@ -7,6 +7,7 @@
   prerequisites: |
     Наличие предустановленной последней веб-версии браузера Google Chrome.
   test-data: |
+    Открыть последнюю версию Google Chrome на персональном компьютере.
   steps: 
     - Открыть страницу https://hexlet-products-store.vercel.app/ в  последней веб-версии браузера Google Chrome.
   expected-result: |
@@ -19,6 +20,7 @@
   prerequisites: |
     Наличие предустановленной последней веб-версии браузера Safari.
   test-data: |
+    Открыть последнюю версию Safari на персональном компьютере.
   steps: 
     - Открыть страницу https://hexlet-products-store.vercel.app/ в  последней веб-версии браузера Safari. 
   expected-result: |
@@ -31,6 +33,7 @@
   prerequisites: |
     Наличие предустановленной последней версии веб-версии Firefox.
   test-data: |
+    Открыть последнюю версию Firefox на персональном компьютере.
   steps: 
     - Открыть страницу https://hexlet-products-store.vercel.app/ в  последней веб-версии браузера Firefox.
   expected-result: |
@@ -42,8 +45,9 @@
     В мобильной версии сайт должен открываться  в соответствии с шаблоном.
   prerequisites: |
     Наличие предустановленного браузера Google Chrome с DevTools.
-    Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере Google Chrome.
+    Открыть  Google Chrome на персональном компьютере.
   test-data: |
+    Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере Google Chrome.
   steps: 
     - Нажать на кнопку f12 для открытия Chrome DevTools.
     - Нажать Ctrl+Shift+M для открытия панели инструментов.
@@ -57,8 +61,9 @@
     В мобильной версии сайт должен открываться  в соответствии с шаблоном.
   prerequisites: |
     Наличие предустановленного браузера Google Chrome с DevTools.
-    Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере Google Chrome.
+     
   test-data: |
+    Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере Google Chrome.
   steps: 
     - Нажать на кнопку f12 для открытия Chrome DevTools.
     - Нажать Ctrl+Shift+M для открытия панели инструментов.
@@ -73,6 +78,7 @@
   prerequisites: |
     Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере.
   test-data: |
+    Выбрать любой товар из представленных на сайте.
   steps: 
     - Нажать на мини-карточку товара.
   expected-result: |
@@ -85,6 +91,7 @@
   prerequisites: |
     Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере.
   test-data: |
+    Выбрать любой товар из представленных на сайте.
   steps: 
     - Нажать на кнопку "В корзину" ("Add to cart") в мини-карточке товара.
   expected-result: |
@@ -98,6 +105,7 @@
   prerequisites: |
     Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере.
   test-data: |
+    Выбрать любой товар из представленных на сайте.
   steps: 
     - Нажать на мини-карточку товара.
     - Нажать кнопку "В корзину" ("Add to cart") в карточке товара.
@@ -113,6 +121,7 @@
     Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере.
     Добавить товар в корзину.
   test-data: |
+    Нет данных.
   steps: 
     - Нажать кнопку "Корзина" ("Cart").
   expected-result: |
@@ -126,6 +135,7 @@
     Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере.
     Добавить товар в корзину.
   test-data: |
+    Нет данных.
   steps: 
     - Нажать кнопку "Корзина" ("Cart").
     - Нажать кнопку "Удалить" ("Delete") для удаления товара из корзины.
@@ -140,6 +150,7 @@
     Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере.
     Добавить несколько товаров в корзину.
   test-data: |
+    Нет данных.
   steps: 
     - Нажать кнопку "Корзина" ("Cart").
     - Нажать кнопку "Очистить корзину" ("Clear cart") для удаления товаров из корзины.
@@ -153,6 +164,7 @@
   prerequisites: |
     Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере.
   test-data: |
+    Нет данных.
   steps: 
     - В  фильтре "Производитель" ("Brand") поставить галочку с левой стороны необходимого производителя.
   expected-result: |
@@ -165,6 +177,7 @@
   prerequisites: |
     Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере.
   test-data: |
+    Нет данных.
   steps: 
     - Нажать на кнопку "Категория" ("Category").
     - В появившемся окне выбрать нужную категорию.
@@ -178,6 +191,7 @@
   prerequisites: |
     Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере.
   test-data: |
+    Нет данных.
   steps: 
     - В поле "Поиск" ("Search") ввести ключевое слово.
   expected-result: |
@@ -191,6 +205,7 @@
     Наличие предустановленного браузера Google Chrome с DevTools.
     Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере Google Chrome.
   test-data: |
+    Нет данных.
   steps: 
     - Нажать на кнопку f12 для открытия Chrome DevTools.
     - В панеле DevTools выбрать раздел "Защита".
@@ -205,12 +220,13 @@
     Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере.
     Открыть страницу https://pagespeed.web.dev/ в браузере.
   test-data: |
+    Нет данных.
   steps:
     - Скопировать URL страницы тестируемого сайта.
     - Указать URL страницы  в поле поиска на сайте PageSpeed Insights.
     - нажать кнопку "Анализировать".
   expected-result: |
-     PageSpeed Insights проанализирует работу сайта и предоставит информацию о его производительности.  
+    PageSpeed Insights проанализирует работу сайта и предоставит информацию о его производительности.  
 
 # Сайт должен быть способен обрабатывать большое количество трафика. 
 # Мобильная версия сайта должна открыться  в соответствии с шаблоном.
