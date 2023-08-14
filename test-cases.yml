@@ -61,7 +61,6 @@
     В мобильной версии сайт должен открываться  в соответствии с шаблоном.
   prerequisites: |
     Наличие предустановленного браузера Google Chrome с DevTools.
-     
   test-data: |
     Открыть страницу https://hexlet-products-store.vercel.app/ в  браузере Google Chrome.
   steps: 
