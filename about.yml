@@ -1,1 +1,14 @@
+name: Elena Yakovleva 
+job: QA Engineer
+level: junior
+email: lunasgames@mail.ru
+description: |
+  Прохожу обучение по направлению QA Engineer
 
+skills: 
+  - Основы тестирования ПО
+  - Основы написания тест-кейсов
+  - Основы составления баг-репорта
+  - Основы составления тест-репорта
+  - Основы проведение регрессионного тестирования
+  - Основы работы Chrome DevTools
