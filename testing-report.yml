@@ -52,8 +52,7 @@
 
 - summary: |
     №13 Проверка фильтра товаров по категории.
-  requirement: |
-    status: fail 
+  status: fail 
 
 - summary: |
     №14 Проверка фильтра по производителю.
