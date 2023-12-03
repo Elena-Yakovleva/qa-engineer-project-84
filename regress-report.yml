@@ -69,12 +69,11 @@
 
 - summary: |
     №17 Проверка возможности ввода отрицательных значений в поля фильтра по цене.
-  requirement: |
-    status: fail 
+   status: fail 
 
 - summary: |
     №18 Проверка фильтра по наличию.
-  status: pass
+   status: pass
 
 # Информация о товаре.
 - summary: |
