@@ -168,11 +168,11 @@ test-cases:
     №40 Проверка наличия сертификата безопасности с помощью Chrome DevTools.
    status: pass
 
-bugreports:
  - summary: |
      №41 Проверка производительности веб версии сайта с помощью PageSpeed Insights.
    status: pass
 
+bugreports:
  - summary: | 
      Не работает переход на главную страницу сайта по логотипу компании.
    environment: |
